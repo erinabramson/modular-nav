@@ -21,3 +21,11 @@ html {
 body {
   margin: 0;
 }
+
+header {
+  background-color: #e2e2e2;
+}
+
+h1 {
+  text-align: center;
+}
