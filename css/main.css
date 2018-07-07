@@ -50,10 +50,13 @@ nav li a:hover {
 }
 
 @media only screen and (min-width: 38em) {
+
   h1 {
     text-align: left;
   }
+
   nav {
     text-align: right;
   }
+
 }
